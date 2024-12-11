@@ -5,12 +5,13 @@ _______________________
 
 Planned :
 - ⏳ MLBB-Helper-Picker
-- ⏳ AdvanceCraft [ MinePack ] 
+- ⏳ AdvanceCraft [ MinePack ]
+- 🏃 learn how work `Tiktok View Booster`
 
 _________________________
 
 RN :
-- 🏃 learn how work `Tiktok View Booster`
+- 💻 Passing the QA engineer training
 
 _________________________
 
