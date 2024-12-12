@@ -23,5 +23,10 @@ Complete :
 - ✅ Car-Shop-Gate [ Jul 16 ]
 - ✅ danceq_pausemenu-master [ Feb 11 ]
 - ✅ danceq_gangwars-master [ Feb 11 ]
+- ✅ 7DaysToDie guide steam [ 10k view | 70 ⭐️ | 3/5 Raiting ]
+______
+- ✅ Sims 4 [ ~110k view | ~320 ⭐️ | 4/5 Raiting ] 
+![image](https://github.com/user-attachments/assets/4da25471-e7ca-4609-bd0e-0f9a3a8b59f1)
+_______
 
 _________________________
